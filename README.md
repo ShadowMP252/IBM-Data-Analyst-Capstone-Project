@@ -10,4 +10,5 @@
     <li>Data Visualization using Matplotlib and Seaborn</li>
     <li>Dashboard Creation with IBM Cognos</li>
   </ol>
+  <footer></footer>
 </div>
