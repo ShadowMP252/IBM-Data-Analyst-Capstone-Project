@@ -22,5 +22,17 @@
     <li>VS Code</li>
     <li>SQL</li>
   </ul>
+  <p>Libraries Used:</p>
+  <ul>
+    <li>Pandas</li>
+    <li>Python Built In</li>
+    <li>Seaborn</li>
+    <li>Matplotlib</li>
+    <li>Numpy</li>
+    <li>Openpyxl</li>
+    <li>Urllib3</li>
+    <li>Requests</li>
+    <li>Sqlite3</li>
+  </ul>
   <footer></footer>
 </div>
